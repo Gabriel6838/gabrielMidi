@@ -7,7 +7,7 @@ function tocaSom(seletorAudio){
         elemento.play();
     }
     else{
-        console.log('Elemento não emcontado ou Seletor inválido!');
+        console.log('Elemento não encontado ou Seletor inválido!');
         }
     }
 
